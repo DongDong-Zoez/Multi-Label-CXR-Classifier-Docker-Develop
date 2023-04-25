@@ -245,4 +245,4 @@ docker build -t cxr .
 docker run -p 8000:8000 cxr
 ```
 
-![demo](./assets/demo.gif)
+![demo-gif](./assets/demo-gif.gif)
